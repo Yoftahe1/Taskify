@@ -1,10 +1,12 @@
 # Taskify
 
 <img src="public/Screenshot (117).png"/>
+<img src="public/Screenshot (137).png"/>
+
 Key Features:
+
 - Real-time database  🔗 
 - Authentication 🔐 
-- Icons for each document (changes in real-time) 🌠
 - Full mobile responsiveness 📱
 - Landing page 🛬
 

@@ -1,5 +1,7 @@
 # Taskify
 
+<p>Collaborate, manage projects, and reach new productivity peaks. From high rises to the home office, the way your team works is unique - accomplish it all with Taskify.</p>
+<br/>
 <img src="public/Screenshot (117).png"/>
 <img src="public/Screenshot (137).png"/>
 
